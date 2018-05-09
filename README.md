@@ -7,3 +7,5 @@ To begin, I've included each lab/weekly assignment that I've done in its own fol
 I've also made an "attendance" folder that outlines my attendance for the semester.
 
 Also, in the "finalproject" folder I've detailed my contributions to our group's final project.
+
+In the "issuesandassistance" folder I've detailed the issues opened/closed and assistance I've given to others in this class.
