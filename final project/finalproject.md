@@ -15,4 +15,12 @@ Our second project attepmt is at: https://github.com/jumpingcontent/Wikinets_Moi
 
 I've also uploaded its .zip to ourmoinwiki.zip in this final pack folder.
 
+For our second attempt we used the versatile and somewhat more simple Moinmoin engine to try and run a wiki. I documented the material that my group members gave and we also made it to having a working deployment but were just a step away due to an issue with apache.
 
+-----------------------------------------
+
+And our attempt and thankfully successful one is at: https://github.com/jumpingcontent/Postfixers
+
+Also upload to postfixers.zip in this final pack folder.
+
+In this attempt we learned about and documented the Postfix deployment on the sootsplash server. We had some issues at first before we learned the proper configuration steps and commands that I documented in our repo with help from my group members. We successfully configured the Postfix deployment and managed to send and receive emails that worked for all classmates who entered sootsplash from their terminal.
