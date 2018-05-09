@@ -9,3 +9,5 @@ I've also made an "attendance" folder that outlines my attendance for the semest
 Also, in the "finalproject" folder I've detailed my contributions to our group's final project.
 
 In the "issuesandassistance" folder I've detailed the issues opened/closed and assistance I've given to others in this class.
+
+Also, I've included material that I did for weeks 12, 13, and 15 in this folder too.
