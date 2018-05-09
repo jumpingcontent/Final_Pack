@@ -17,3 +17,5 @@ Here are also the closed issues:
 On https://github.com/JUAREZZ/week8-REVIEW/issues/8 I gave a correction to help a classmate's files be better read by their script.
 
 On https://github.com/loknjinu13/week8/issues/1 I gave input on my thoughts on folder creation lines in a classmate's script.
+
+On https://github.com/jumpingcontent/wikinets/issues/1 I opened an issue to begin a discussion on changing our group name for our first Mediawiki project attempt.
