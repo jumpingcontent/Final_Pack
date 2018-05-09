@@ -1,5 +1,5 @@
 For our final project we had quite an adventure. We had three attempts at a project and each one taught us a lot. I was the documenter for 
-all three of our projects 
+all three of our projects. Due to this responsibility in addition to organizing and writing down information given to me from group members and my observations of our progress, I maintained and will continue to maintain our project repos depending on group consensus.
 
 ------------------------------------------
 
